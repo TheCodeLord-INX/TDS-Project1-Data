@@ -12,7 +12,7 @@ CATEGORY_ID = 34
 START_DATE = "2025-01-01" # Inclusive
 END_DATE = "2025-04-15"   # Inclusive
 
-RAW_COOKIE_STRING = """""" # Replace with your actual cookie string
+RAW_COOKIE_STRING = "_forum_session=gouGkzWqzl7f6MhtilWjZfAkKISxEFUYfqvv0YUONmLMiNNHJsOZS6yqLZmfyDVZpz1qRTZJQXvCbVtpZSXVf3zoOgheMkNc2kUnPraYC8H78Oh7sU0RJ%2B11CeUGD095y4O6VCpS1HF3A0NUv6rtXKEWispZvxuOWLT1DP%2Bm9CH34qXOXQDGdSbae7lKRX2UYfYT%2FscieOcU1pjG6MKdfB8WvzB5XwRkUEKUylPDmx87uy9metdv3wrnqfaXiTKeR%2FQ5AyQphaK%2BPILiSt%2BlNvwjSWy7fA%3D%3D--i2CDl4%2BdVr3MjTgT--zYW%2F8%2Fe6LHSOxdCu6glOeQ%3D%3D;" # Replace with your actual cookie string
 
 OUTPUT_DIR = "discourse_json"
 POST_ID_BATCH_SIZE = 50
